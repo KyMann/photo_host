@@ -1,0 +1,10 @@
+{
+    "Castle":{
+        "nickname":"Castle",
+        "location":"0,0"
+    },  
+    "JaggedTower":{
+        "nickname":"JaggedTower",
+        "loaction":"100,100"
+    }
+}
