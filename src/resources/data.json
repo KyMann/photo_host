@@ -1,10 +1,10 @@
 {
-    "Castle":{
-        "nickname":"Castle",
-        "location":"0,0"
+    "Neuschwanstein":{
+        "nickname":"Neuschwanstein",
+        "location":"47.5576N, 10.7498E"
     },  
-    "JaggedTower":{
-        "nickname":"JaggedTower",
-        "loaction":"100,100"
+    "StMichael":{
+        "nickname":"St Michael",
+        "loaction":"48.6361N, 1.5115W"
     }
 }
